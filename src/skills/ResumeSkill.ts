@@ -24,8 +24,6 @@ export async function parseResume(resumeText: string) {
 Parse the following resume and return a JSON object with these keys:
 - skills (array of strings)
 - tools and technologies (array of strings)
-- job roles (array of strings)
-- total years of experience (number)
 
 Resume:
 ${resumeText}
