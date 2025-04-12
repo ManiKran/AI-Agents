@@ -1,8 +1,12 @@
+import dotenv from "dotenv";
 import fs from "fs";
-import path from "path";
-import { parseResume } from "./skills/ResumeSkill";
+import { recommendResourcesFromGaps } from "./skills/LearningResourceAgent";
 import { findMissingSkills } from "./skills/MissingSkillAgent";
+import { parseResume } from "./skills/ResumeSkill";
 import { extractTextFromPDF } from "./utils/pdfReader";
+import path from "path";
+
+dotenv.config();
 
 async function loadResumeText(filePath: string): Promise<string> {
   const ext = path.extname(filePath);
@@ -10,26 +14,25 @@ async function loadResumeText(filePath: string): Promise<string> {
 }
 
 async function main() {
-  // ✅ 1. Paths to input files
-  const resumePath = path.join(__dirname, "../resume.pdf"); // or .txt
+  const resumePath = path.join(__dirname, "../resume.pdf");
   const jobDescPath = path.join(__dirname, "../job-description.txt");
 
-  // ✅ 2. Load contents
   const resumeText = await loadResumeText(resumePath);
   const jobDescription = fs.readFileSync(jobDescPath, "utf8");
 
-  // ✅ 3. Parse resume
   const parsed = await parseResume(resumeText);
-  //console.log("🧠 Resume Parsed:", parsed);
-
-  // ✅ 4. Compare with job description
   const gap = await findMissingSkills(
-    parsed.skills,
+    parsed.skills || [],
     parsed["tools and technologies"] || parsed.tools_and_technologies || [],
     jobDescription
   );
 
-  console.log("🔍 Missing Skills & Tools:", gap);
+  const learningResources = await recommendResourcesFromGaps(gap);
+
+  console.log("📚 Recommended Learning Resources:");
+  console.dir(learningResources, { depth: null });
+
+  fs.writeFileSync("learning-resources.json", JSON.stringify(learningResources, null, 2));
 }
 
 main();
