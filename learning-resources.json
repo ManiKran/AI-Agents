@@ -1,147 +1,57 @@
 [
   {
-    "topic": "Marketing insights",
+    "topic": "Customer segmentation",
     "certifications": [
       {
-        "title": "Marketing Analytics: Data Tools and Techniques by Coursera",
-        "url": "https://www.coursera.org/learn/marketing-analytics"
+        "title": "Customer Segmentation and Prospecting",
+        "url": "https://www.coursera.org/learn/customer-segmentation-prospecting"
       },
       {
-        "title": "Google Analytics Certification by Google Skillshop",
-        "url": "https://skillshop.withgoogle.com/partner-home"
+        "title": "Marketing Analytics: Customer Segmentation and Promotion Strategies",
+        "url": "https://www.edx.org/course/marketing-analytics-customer-segmentation-and-prom"
       }
     ],
     "youtube_videos": [
       {
-        "title": "Digital Marketing 101 (A Beginner’s Guide To Marketing)",
-        "url": "https://www.youtube.com/watch?v=h95cQkEWBx0"
+        "title": "Customer Segmentation Tutorial | Python Projects | K-Means Algorithm | Python Training |  Edureka",
+        "url": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
       },
       {
-        "title": "Dynamics 365 Marketing Tutorial (Real Time Marketing / Customer Insights Journeys)",
-        "url": "https://www.youtube.com/watch?v=13Cb7fIGxo8"
+        "title": "Customer Segmentation",
+        "url": "https://www.youtube.com/watch?v=zPJtDohab-g"
       }
     ],
     "github_projects": [
       {
-        "name": "Sfedfcv/redesigned-pancake",
-        "url": "https://github.com/Sfedfcv/redesigned-pancake"
+        "name": "byukan/Marketing-Data-Science",
+        "url": "https://github.com/byukan/Marketing-Data-Science"
       },
       {
-        "name": "YuehHanChen/Marketing_Analytics",
-        "url": "https://github.com/YuehHanChen/Marketing_Analytics"
+        "name": "damiangilgonzalez1995/Clustering-with-LLM",
+        "url": "https://github.com/damiangilgonzalez1995/Clustering-with-LLM"
       }
     ]
   },
   {
-    "topic": "Healthcare practitioner's segmentation",
+    "topic": "Experience in marketing, advertising, or healthcare industries",
     "certifications": [
       {
-        "title": "Healthcare Data Analytics Certificate by Coursera",
-        "url": "https://www.coursera.org/specializations/healthcare-data-analytics"
+        "title": "Digital Marketing Specialization",
+        "url": "https://www.coursera.org/specializations/digital-marketing"
       },
       {
-        "title": "Segmentation Analysis in Healthcare by Udemy",
-        "url": "https://www.udemy.com/course/segmentation-analysis-in-healthcare/"
+        "title": "Healthcare Marketing Strategy",
+        "url": "https://www.edx.org/course/healthcare-marketing-strategy"
       }
     ],
     "youtube_videos": [
       {
-        "title": "Get Started with CephX",
-        "url": "https://www.youtube.com/watch?v=31_vA_zpXbc"
+        "title": "Healthcare marketing strategies in 2024",
+        "url": "https://www.youtube.com/watch?v=kZvN7E7vfsE"
       },
       {
-        "title": "Cutting-Edge Software for Accurate Detection, Segmentation, and Advanced CXR Quantification",
-        "url": "https://www.youtube.com/watch?v=_5GlChvxSTg"
-      }
-    ],
-    "github_projects": []
-  },
-  {
-    "topic": "Evaluating effectiveness and efficiency",
-    "certifications": [
-      {
-        "title": "Measuring Business Performance by LinkedIn Learning",
-        "url": "https://www.linkedin.com/learning/measuring-business-performance"
-      },
-      {
-        "title": "Evaluation and Measurement for Public Health by Coursera",
-        "url": "https://www.coursera.org/learn/evaluation-measurement-public-health"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Evaluation 3: effectiveness vs. efficiency",
-        "url": "https://www.youtube.com/watch?v=t3rx35qadkU"
-      },
-      {
-        "title": "Key Difference Between Efficiency and Effectiveness [With Example]",
-        "url": "https://www.youtube.com/watch?v=Brkcj6ie7ic"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "Merck/psm3mkv",
-        "url": "https://github.com/Merck/psm3mkv"
-      },
-      {
-        "name": "shobhitsinha-A/Artificial-Intelligence-Project",
-        "url": "https://github.com/shobhitsinha-A/Artificial-Intelligence-Project"
-      }
-    ]
-  },
-  {
-    "topic": "Multi-channel analysis",
-    "certifications": [
-      {
-        "title": "Omnichannel Strategy and Management by edX",
-        "url": "https://www.edx.org/course/omnichannel-strategy-and-management"
-      },
-      {
-        "title": "Digital Marketing Analytics in Theory and Practice by Coursera",
-        "url": "https://www.coursera.org/learn/digital-marketing-analytics"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Voxengo SPAN: Multi-Channel Spectrum Analysis in Pro Tools",
-        "url": "https://www.youtube.com/watch?v=H9JNgEBMDcg"
-      },
-      {
-        "title": "Wireless Multi-Channel Analysis using Omnipeek",
-        "url": "https://www.youtube.com/watch?v=pnCCJxs-8mE"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "ntienhuy/MultiChannel",
-        "url": "https://github.com/ntienhuy/MultiChannel"
-      },
-      {
-        "name": "dpteague/PyMASWdisp",
-        "url": "https://github.com/dpteague/PyMASWdisp"
-      }
-    ]
-  },
-  {
-    "topic": "Strategic recommendations",
-    "certifications": [
-      {
-        "title": "Strategic Thinking by LinkedIn Learning",
-        "url": "https://www.linkedin.com/learning/strategic-thinking"
-      },
-      {
-        "title": "Business Strategy Specialization by Coursera",
-        "url": "https://www.coursera.org/specializations/wharton-business-strategy"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Strategic Sourcing Made Simple: A Beginner&#39;s Guide to Success",
-        "url": "https://www.youtube.com/watch?v=ATwuwOa0Krs"
-      },
-      {
-        "title": "This Pocket Option Strategy Is FIRE | Cool Pocket Option Strategy to Navigate Market",
-        "url": "https://www.youtube.com/watch?v=PupUce05XEA"
+        "title": "How Healthcare Marketing Changes Lives",
+        "url": "https://www.youtube.com/watch?v=5f1V59h93no"
       }
     ],
     "github_projects": [
@@ -150,8 +60,169 @@
         "url": "https://github.com/jettbrains/-L-"
       },
       {
-        "name": "Aidenzich/TVA",
-        "url": "https://github.com/Aidenzich/TVA"
+        "name": "nopany/BBA-in-Hospital-Management-in-Kolkata-Hospital-Management-Course-in-Kolkata",
+        "url": "https://github.com/nopany/BBA-in-Hospital-Management-in-Kolkata-Hospital-Management-Course-in-Kolkata"
+      }
+    ]
+  },
+  {
+    "topic": "Interest in marketing, advertising, or healthcare industries",
+    "certifications": [
+      {
+        "title": "Fundamentals of Marketing",
+        "url": "https://www.coursera.org/learn/marketing-fundamentals"
+      },
+      {
+        "title": "Introduction to Healthcare",
+        "url": "https://www.edx.org/course/introduction-to-healthcare"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Marketing Strategies For Healthcare Industry",
+        "url": "https://www.youtube.com/watch?v=vLZboLWR_D8"
+      },
+      {
+        "title": "What Is Marketing In 3 Minutes | Marketing For Beginners",
+        "url": "https://www.youtube.com/watch?v=QusJ4fpWQwA"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "jettbrains/-L-",
+        "url": "https://github.com/jettbrains/-L-"
+      }
+    ]
+  },
+  {
+    "topic": "Collaboration and project management",
+    "certifications": [
+      {
+        "title": "Collaborative Working in a Remote Team",
+        "url": "https://www.futurelearn.com/courses/collaborative-working-in-a-remote-team"
+      },
+      {
+        "title": "Project Management Principles and Practices Specialization",
+        "url": "https://www.coursera.org/specializations/project-management"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "How to Use Collaboration Within Project Management",
+        "url": "https://www.youtube.com/watch?v=YvJGzzpakWk"
+      },
+      {
+        "title": "Collaboration and Group Project Management | Studios Workshop Series",
+        "url": "https://www.youtube.com/watch?v=OPcFCSd5SzY"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "Enalean/tuleap",
+        "url": "https://github.com/Enalean/tuleap"
+      },
+      {
+        "name": "ari/jobsworth",
+        "url": "https://github.com/ari/jobsworth"
+      }
+    ]
+  },
+  {
+    "topic": "Multi-project management",
+    "certifications": [
+      {
+        "title": "Program Management: Managing Multiple Projects",
+        "url": "https://www.linkedin.com/learning/program-management-managing-multiple-projects"
+      },
+      {
+        "title": "Mastering Multi-Project Management",
+        "url": "https://www.udemy.com/course/mastering-multi-project-management/"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Multi Project Manager Tutorial",
+        "url": "https://www.youtube.com/watch?v=nC5oAiMHQwA"
+      },
+      {
+        "title": "How to Manage Multiple Projects [TIPS FOR PROJECT MANAGERS]",
+        "url": "https://www.youtube.com/watch?v=4niN--3eSmQ"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "supasebie/DotNetCore3.0React",
+        "url": "https://github.com/supasebie/DotNetCore3.0React"
+      },
+      {
+        "name": "throskam/eko",
+        "url": "https://github.com/throskam/eko"
+      }
+    ]
+  },
+  {
+    "topic": "Data cleaning/wrangling",
+    "certifications": [
+      {
+        "title": "Data Wrangling with Python",
+        "url": "https://www.datacamp.com/courses/data-wrangling-with-python"
+      },
+      {
+        "title": "Data Wrangling and Cleaning with Pandas",
+        "url": "https://www.udemy.com/course/data-wrangling-and-cleaning-with-pandas/"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Master Data Cleaning Essentials on Excel in Just 10 Minutes",
+        "url": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
+      },
+      {
+        "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
+        "url": "https://www.youtube.com/watch?v=bDhvCp3_lYw"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "Qudirah/Exploratory-Data-Analysis",
+        "url": "https://github.com/Qudirah/Exploratory-Data-Analysis"
+      },
+      {
+        "name": "anguswg-ucsb/nfl_wins",
+        "url": "https://github.com/anguswg-ucsb/nfl_wins"
+      }
+    ]
+  },
+  {
+    "topic": "Problem-solving skills",
+    "certifications": [
+      {
+        "title": "Creative Problem Solving",
+        "url": "https://www.coursera.org/learn/creative-problem-solving"
+      },
+      {
+        "title": "Critical Thinking & Problem Solving",
+        "url": "https://www.edx.org/course/critical-thinking-problem-solving"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "SHARPEN YOUR ANALYTICAL AND PROBLEM SOLVING SKILLS",
+        "url": "https://www.youtube.com/watch?v=Cm5ukdquISE"
+      },
+      {
+        "title": "4 Steps in Solving Problems",
+        "url": "https://www.youtube.com/watch?v=kn8frIzQupA"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "Preparation-Street/Programming-Street-150",
+        "url": "https://github.com/Preparation-Street/Programming-Street-150"
+      },
+      {
+        "name": "waterlink/Challenge-Build-Your-Own-Array-In-Js",
+        "url": "https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js"
       }
     ]
   },
@@ -159,12 +230,12 @@
     "topic": "Code documentation",
     "certifications": [
       {
-        "title": "Writing Readable Code by Udemy",
-        "url": "https://www.udemy.com/course/writing-readable-code/"
+        "title": "Writing Readable Code",
+        "url": "https://www.pluralsight.com/courses/writing-readable-code"
       },
       {
-        "title": "Technical Writing for Developers by Google Developers",
-        "url": "https://developers.google.com/tech-writing"
+        "title": "Documenting Your Code Projects",
+        "url": "https://www.linkedin.com/learning/documenting-your-code-projects"
       }
     ],
     "youtube_videos": [
@@ -173,8 +244,8 @@
         "url": "https://www.youtube.com/watch?v=L7Ry-Fiij-M"
       },
       {
-        "title": "How Senior Programmers ACTUALLY Write Code",
-        "url": "https://www.youtube.com/watch?v=oJbfMBROEO0"
+        "title": "Code Documentation Made Easy",
+        "url": "https://www.youtube.com/watch?v=BysHg44VjbM"
       }
     ],
     "github_projects": [
@@ -189,65 +260,27 @@
     ]
   },
   {
-    "topic": "Data wrangling/cleaning skills",
+    "topic": "Relational databases (explicit experience beyond SQL not listed)",
     "certifications": [
       {
-        "title": "Data Cleaning with Python by DataCamp",
-        "url": "https://www.datacamp.com/courses/data-cleaning-in-python"
+        "title": "Relational Database Design",
+        "url": "https://www.udemy.com/course/relational-database-design/"
       },
       {
-        "title": "Data Wrangling with SQL by Coursera",
-        "url": "https://www.coursera.org/learn/sql-data-wrangling"
+        "title": "Databases and SQL for Data Science with Python",
+        "url": "https://www.coursera.org/learn/databases-sql-for-data-science-with-python"
       }
     ],
     "youtube_videos": [
       {
-        "title": "Master Data Cleaning Essentials on Excel in Just 10 Minutes",
-        "url": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
+        "title": "Relational Theory for Computer Professionals - C.J. Date",
+        "url": "https://www.youtube.com/watch?v=qx0F7TfA8CI"
       },
       {
-        "title": "What Is Data Wrangling? The Key to Clean Data",
-        "url": "https://www.youtube.com/watch?v=99ilqgOqlHo"
+        "title": "You know SQL? You’re set for real-time data processing with Azure Stream Analytics by Florian Eiden",
+        "url": "https://www.youtube.com/watch?v=RLIZhfAvzjQ"
       }
     ],
-    "github_projects": [
-      {
-        "name": "ABT9841/Layoffs-Data-Analysis-Project-Tech-Industry-",
-        "url": "https://github.com/ABT9841/Layoffs-Data-Analysis-Project-Tech-Industry-"
-      },
-      {
-        "name": "LtdDan82/Airbnb_seattle",
-        "url": "https://github.com/LtdDan82/Airbnb_seattle"
-      }
-    ]
-  },
-  {
-    "topic": "Interest in marketing, advertising, and healthcare industries",
-    "certifications": [
-      {
-        "title": "Digital Marketing Specialization by Coursera",
-        "url": "https://www.coursera.org/specializations/digital-marketing"
-      },
-      {
-        "title": "Healthcare Marketing Strategies by Udemy",
-        "url": "https://www.udemy.com/course/healthcare-marketing-strategies/"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Marketing Strategies For Healthcare Industry",
-        "url": "https://www.youtube.com/watch?v=vLZboLWR_D8"
-      },
-      {
-        "title": "CONTENT MARKETING IN ALIGNMENT FOR YOUR HEALTHCARE BUSINESS WITHOUT PAYING FOR ADS PART 2",
-        "url": "https://www.youtube.com/watch?v=rtHmg2IM7hs"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "jettbrains/-L-",
-        "url": "https://github.com/jettbrains/-L-"
-      }
-    ]
+    "github_projects": []
   }
 ]

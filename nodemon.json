@@ -1,0 +1,4 @@
+{
+    "watch": ["src"],
+    "ignore": ["learning-resources.json", "weekly-study-plan.json"]
+  }

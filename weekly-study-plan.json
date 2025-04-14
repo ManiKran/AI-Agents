@@ -1,0 +1,162 @@
+[
+  {
+    "week": "Week 1",
+    "days": [
+      {
+        "day": "Day 1",
+        "topic": "Customer segmentation",
+        "certification": "https://www.coursera.org/learn/customer-segmentation-prospecting"
+      },
+      {
+        "day": "Day 2",
+        "topic": "Customer segmentation",
+        "youtube_video": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
+      },
+      {
+        "day": "Day 3",
+        "topic": "Customer segmentation",
+        "github_project": "https://github.com/byukan/Marketing-Data-Science"
+      },
+      {
+        "day": "Day 4",
+        "topic": "Experience in marketing, advertising, or healthcare industries",
+        "certification": "https://www.coursera.org/specializations/digital-marketing"
+      },
+      {
+        "day": "Day 5",
+        "topic": "Experience in marketing, advertising, or healthcare industries",
+        "youtube_video": "https://www.youtube.com/watch?v=kZvN7E7vfsE"
+      }
+    ]
+  },
+  {
+    "week": "Week 2",
+    "days": [
+      {
+        "day": "Day 6",
+        "topic": "Experience in marketing, advertising, or healthcare industries",
+        "github_project": "https://github.com/jettbrains/-L-"
+      },
+      {
+        "day": "Day 7",
+        "topic": "Interest in marketing, advertising, or healthcare industries",
+        "certification": "https://www.coursera.org/learn/marketing-fundamentals"
+      },
+      {
+        "day": "Day 8",
+        "topic": "Interest in marketing, advertising, or healthcare industries",
+        "youtube_video": "https://www.youtube.com/watch?v=vLZboLWR_D8"
+      },
+      {
+        "day": "Day 9",
+        "topic": "Interest in marketing, advertising, or healthcare industries",
+        "github_project": "https://github.com/jettbrains/-L-"
+      },
+      {
+        "day": "Day 10",
+        "topic": "Collaboration and project management",
+        "certification": "https://www.futurelearn.com/courses/collaborative-working-in-a-remote-team"
+      }
+    ]
+  },
+  {
+    "week": "Week 3",
+    "days": [
+      {
+        "day": "Day 11",
+        "topic": "Collaboration and project management",
+        "youtube_video": "https://www.youtube.com/watch?v=YvJGzzpakWk"
+      },
+      {
+        "day": "Day 12",
+        "topic": "Collaboration and project management",
+        "github_project": "https://github.com/Enalean/tuleap"
+      },
+      {
+        "day": "Day 13",
+        "topic": "Multi-project management",
+        "certification": "https://www.linkedin.com/learning/program-management-managing-multiple-projects"
+      },
+      {
+        "day": "Day 14",
+        "topic": "Multi-project management",
+        "youtube_video": "https://www.youtube.com/watch?v=nC5oAiMHQwA"
+      },
+      {
+        "day": "Day 15",
+        "topic": "Multi-project management",
+        "github_project": "https://github.com/supasebie/DotNetCore3.0React"
+      }
+    ]
+  },
+  {
+    "week": "Week 4",
+    "days": [
+      {
+        "day": "Day 16",
+        "topic": "Data cleaning/wrangling",
+        "certification": "https://www.datacamp.com/courses/data-wrangling-with-python"
+      },
+      {
+        "day": "Day 17",
+        "topic": "Data cleaning/wrangling",
+        "youtube_video": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
+      },
+      {
+        "day": "Day 18",
+        "topic": "Data cleaning/wrangling",
+        "github_project": "https://github.com/Qudirah/Exploratory-Data-Analysis"
+      },
+      {
+        "day": "Day 19",
+        "topic": "Problem-solving skills",
+        "certification": "https://www.coursera.org/learn/creative-problem-solving"
+      },
+      {
+        "day": "Day 20",
+        "topic": "Problem-solving skills",
+        "youtube_video": "https://www.youtube.com/watch?v=Cm5ukdquISE"
+      }
+    ]
+  },
+  {
+    "week": "Week 5",
+    "days": [
+      {
+        "day": "Day 21",
+        "topic": "Problem-solving skills",
+        "github_project": "https://github.com/Preparation-Street/Programming-Street-150"
+      },
+      {
+        "day": "Day 22",
+        "topic": "Code documentation",
+        "certification": "https://www.pluralsight.com/courses/writing-readable-code"
+      },
+      {
+        "day": "Day 23",
+        "topic": "Code documentation",
+        "youtube_video": "https://www.youtube.com/watch?v=L7Ry-Fiij-M"
+      },
+      {
+        "day": "Day 24",
+        "topic": "Code documentation",
+        "github_project": "https://github.com/git/git"
+      },
+      {
+        "day": "Day 25",
+        "topic": "Relational databases (explicit experience beyond SQL not listed)",
+        "certification": "https://www.udemy.com/course/relational-database-design/"
+      }
+    ]
+  },
+  {
+    "week": "Week 6",
+    "days": [
+      {
+        "day": "Day 26",
+        "topic": "Relational databases (explicit experience beyond SQL not listed)",
+        "youtube_video": "https://www.youtube.com/watch?v=qx0F7TfA8CI"
+      }
+    ]
+  }
+]

@@ -1,16 +1,20 @@
 import dotenv from "dotenv";
 import fs from "fs";
-import { recommendResourcesFromGaps } from "./skills/LearningResourceAgent";
-import { findMissingSkills } from "./skills/MissingSkillAgent";
-import { parseResume } from "./skills/ResumeSkill";
-import { extractTextFromPDF } from "./utils/pdfReader";
 import path from "path";
+
+import { extractTextFromPDF } from "./utils/pdfReader";
+import { parseResume } from "./skills/ResumeSkill";
+import { findMissingSkills } from "./skills/MissingSkillAgent";
+import { recommendResourcesFromGaps } from "./skills/LearningResourceAgent";
+import { generateWeeklyStudyPlan } from "./skills/TrainingPlanAgent";
 
 dotenv.config();
 
 async function loadResumeText(filePath: string): Promise<string> {
   const ext = path.extname(filePath);
-  return ext === ".pdf" ? await extractTextFromPDF(filePath) : fs.readFileSync(filePath, "utf8");
+  return ext === ".pdf"
+    ? await extractTextFromPDF(filePath)
+    : fs.readFileSync(filePath, "utf8");
 }
 
 async function main() {
@@ -28,11 +32,14 @@ async function main() {
   );
 
   const learningResources = await recommendResourcesFromGaps(gap);
-
-  console.log("📚 Recommended Learning Resources:");
-  console.dir(learningResources, { depth: null });
-
   fs.writeFileSync("learning-resources.json", JSON.stringify(learningResources, null, 2));
+  console.log("📚 Recommended learning resources saved to learning-resources.json");
+
+  const weeklyPlan = generateWeeklyStudyPlan(learningResources);
+  fs.writeFileSync("weekly-study-plan.json", JSON.stringify(weeklyPlan, null, 2));
+  console.log("🗓️ Weekly study plan saved to weekly-study-plan.json");
 }
 
-main();
+main().catch((err) => {
+  console.error("❌ Agent Error:", err);
+});
