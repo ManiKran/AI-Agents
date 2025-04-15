@@ -22,7 +22,7 @@ export async function parseResume(resumeText: string) {
         role: "user",
         content: `
 Parse the following resume and return a JSON object with these keys:
-- skills (array of strings)
+- skills (array of strings which should not include soft skills)
 - tools and technologies (array of strings)
 
 Resume:

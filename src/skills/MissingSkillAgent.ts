@@ -17,7 +17,7 @@ export async function findMissingSkills(
         content: `
 Compare this candidate's skills and tools with the job description and return a JSON object with:
 
-- missing_skills: (array of strings)
+- missing_skills: (array of strings which should not include soft skills)
 - missing_tools_and_technologies: (array of strings)
 
 Candidate Skills:

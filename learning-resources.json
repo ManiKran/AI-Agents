@@ -1,14 +1,146 @@
 [
   {
-    "topic": "Customer segmentation",
+    "topic": "Multi-Channel Analysis",
     "certifications": [
       {
-        "title": "Customer Segmentation and Prospecting",
-        "url": "https://www.coursera.org/learn/customer-segmentation-prospecting"
+        "title": "Google Analytics for Beginners",
+        "url": "https://analytics.google.com/analytics/academy/course/6"
       },
       {
-        "title": "Marketing Analytics: Customer Segmentation and Promotion Strategies",
-        "url": "https://www.edx.org/course/marketing-analytics-customer-segmentation-and-prom"
+        "title": "Marketing Analytics: Multi-Touch Attribution",
+        "url": "https://www.coursera.org/learn/marketing-analytics-multi-touch-attribution"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Multi Channel Analyzer - Raw Data Explorer",
+        "url": "https://www.youtube.com/watch?v=VXaWdvGRnls"
+      },
+      {
+        "title": "Spectrum View: A New Way of Performing Multi-Channel Spectrum Analysis on an Oscilloscope",
+        "url": "https://www.youtube.com/watch?v=CGCK52AU3Ak"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "ntienhuy/MultiChannel",
+        "url": "https://github.com/ntienhuy/MultiChannel"
+      },
+      {
+        "name": "dpteague/PyMASWdisp",
+        "url": "https://github.com/dpteague/PyMASWdisp"
+      }
+    ]
+  },
+  {
+    "topic": "Real-Time Data Flows",
+    "certifications": [
+      {
+        "title": "Introduction to Apache Kafka",
+        "url": "https://www.confluent.io/resources/kafka-training/introduction-to-apache-kafka/"
+      },
+      {
+        "title": "Streaming Data with Amazon Kinesis",
+        "url": "https://aws.amazon.com/training/digital/aws-streaming-data-solutions/"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Azure Data Factory Mapping Data Flows Tutorial | Build ETL visual way!",
+        "url": "https://www.youtube.com/watch?v=AUpMCRggjIM"
+      },
+      {
+        "title": "Azure Data Engineering | real time project 7 | data flow project-4",
+        "url": "https://www.youtube.com/watch?v=S4Pr7Wudp6Y"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "USTCPCS/CVPR2018_attention",
+        "url": "https://github.com/USTCPCS/CVPR2018_attention"
+      },
+      {
+        "name": "Sfedfcv/redesigned-pancake",
+        "url": "https://github.com/Sfedfcv/redesigned-pancake"
+      }
+    ]
+  },
+  {
+    "topic": "Marketing Analytics",
+    "certifications": [
+      {
+        "title": "Marketing Analytics and Retail Business Management",
+        "url": "https://www.edx.org/professional-certificate/wharton-marketing-analytics"
+      },
+      {
+        "title": "Marketing Analytics: Data Tools and Techniques",
+        "url": "https://www.coursera.org/learn/marketing-analytics"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Marketing Analytics 101 (A Beginner’s Guide To Marketing Metrics)",
+        "url": "https://www.youtube.com/watch?v=eg4I-RU_vKU"
+      },
+      {
+        "title": "Understanding Digital Marketing Analytics (Metrics and Tools)",
+        "url": "https://www.youtube.com/watch?v=Yv12mEfrj-Y"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "retentioneering/retentioneering-tools",
+        "url": "https://github.com/retentioneering/retentioneering-tools"
+      },
+      {
+        "name": "byukan/Marketing-Data-Science",
+        "url": "https://github.com/byukan/Marketing-Data-Science"
+      }
+    ]
+  },
+  {
+    "topic": "Healthcare Data Analysis",
+    "certifications": [
+      {
+        "title": "Health Informatics on FHIR",
+        "url": "https://www.coursera.org/learn/health-informatics-fhir"
+      },
+      {
+        "title": "Data Analytics in Healthcare",
+        "url": "https://www.udemy.com/course/data-analytics-in-healthcare/"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Learn How to Become a Healthcare Data Analyst with This Guide",
+        "url": "https://www.youtube.com/watch?v=ime7OBlERiM"
+      },
+      {
+        "title": "What does a Healthcare Data Analyst Do",
+        "url": "https://www.youtube.com/watch?v=qcQoBXa0uZ8"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "jettbrains/-L-",
+        "url": "https://github.com/jettbrains/-L-"
+      },
+      {
+        "name": "Aryia-Behroziuan/neurons",
+        "url": "https://github.com/Aryia-Behroziuan/neurons"
+      }
+    ]
+  },
+  {
+    "topic": "Customer Segmentation",
+    "certifications": [
+      {
+        "title": "Customer Segmentation and Behavior Analysis",
+        "url": "https://www.udemy.com/course/customer-segmentation-and-behavior-analysis/"
+      },
+      {
+        "title": "Advanced Customer Segmentation with R",
+        "url": "https://www.datacamp.com/courses/customer-segmentation-in-r"
       }
     ],
     "youtube_videos": [
@@ -17,8 +149,8 @@
         "url": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
       },
       {
-        "title": "Customer Segmentation",
-        "url": "https://www.youtube.com/watch?v=zPJtDohab-g"
+        "title": "Market Segmentation (With Real World Examples) | From A Business Professor",
+        "url": "https://www.youtube.com/watch?v=IrJ1cNIfmsk"
       }
     ],
     "github_projects": [
@@ -33,209 +165,48 @@
     ]
   },
   {
-    "topic": "Experience in marketing, advertising, or healthcare industries",
+    "topic": "ROI Optimization",
     "certifications": [
       {
-        "title": "Digital Marketing Specialization",
-        "url": "https://www.coursera.org/specializations/digital-marketing"
+        "title": "Digital Marketing Strategies: Data, Automation, AI & Analytics",
+        "url": "https://www.coursera.org/learn/digital-marketing-strategy"
       },
       {
-        "title": "Healthcare Marketing Strategy",
-        "url": "https://www.edx.org/course/healthcare-marketing-strategy"
+        "title": "Marketing ROI: Design and Deliver Winning Marketing ROI",
+        "url": "https://www.udemy.com/course/marketing-roi/"
       }
     ],
     "youtube_videos": [
       {
-        "title": "Healthcare marketing strategies in 2024",
-        "url": "https://www.youtube.com/watch?v=kZvN7E7vfsE"
+        "title": "YouTube ROI Optimization [From Zero to HERO in 2025]",
+        "url": "https://www.youtube.com/watch?v=rq9JeYwQiTQ"
       },
       {
-        "title": "How Healthcare Marketing Changes Lives",
-        "url": "https://www.youtube.com/watch?v=5f1V59h93no"
+        "title": "Maximizing Advertising ROI through Budget Optimization | Python Tutorial",
+        "url": "https://www.youtube.com/watch?v=VIYEJXhvw6M"
       }
     ],
     "github_projects": [
       {
-        "name": "jettbrains/-L-",
-        "url": "https://github.com/jettbrains/-L-"
+        "name": "milinddeore/AirBnBPriceOptimizer",
+        "url": "https://github.com/milinddeore/AirBnBPriceOptimizer"
       },
       {
-        "name": "nopany/BBA-in-Hospital-Management-in-Kolkata-Hospital-Management-Course-in-Kolkata",
-        "url": "https://github.com/nopany/BBA-in-Hospital-Management-in-Kolkata-Hospital-Management-Course-in-Kolkata"
+        "name": "JuliaSokolova/amazon_-eCommerce_optimization",
+        "url": "https://github.com/JuliaSokolova/amazon_-eCommerce_optimization"
       }
     ]
   },
   {
-    "topic": "Interest in marketing, advertising, or healthcare industries",
+    "topic": "Code Documentation",
     "certifications": [
       {
-        "title": "Fundamentals of Marketing",
-        "url": "https://www.coursera.org/learn/marketing-fundamentals"
+        "title": "Technical Writing for Developers",
+        "url": "https://developers.google.com/tech-writing"
       },
       {
-        "title": "Introduction to Healthcare",
-        "url": "https://www.edx.org/course/introduction-to-healthcare"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Marketing Strategies For Healthcare Industry",
-        "url": "https://www.youtube.com/watch?v=vLZboLWR_D8"
-      },
-      {
-        "title": "What Is Marketing In 3 Minutes | Marketing For Beginners",
-        "url": "https://www.youtube.com/watch?v=QusJ4fpWQwA"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "jettbrains/-L-",
-        "url": "https://github.com/jettbrains/-L-"
-      }
-    ]
-  },
-  {
-    "topic": "Collaboration and project management",
-    "certifications": [
-      {
-        "title": "Collaborative Working in a Remote Team",
-        "url": "https://www.futurelearn.com/courses/collaborative-working-in-a-remote-team"
-      },
-      {
-        "title": "Project Management Principles and Practices Specialization",
-        "url": "https://www.coursera.org/specializations/project-management"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "How to Use Collaboration Within Project Management",
-        "url": "https://www.youtube.com/watch?v=YvJGzzpakWk"
-      },
-      {
-        "title": "Collaboration and Group Project Management | Studios Workshop Series",
-        "url": "https://www.youtube.com/watch?v=OPcFCSd5SzY"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "Enalean/tuleap",
-        "url": "https://github.com/Enalean/tuleap"
-      },
-      {
-        "name": "ari/jobsworth",
-        "url": "https://github.com/ari/jobsworth"
-      }
-    ]
-  },
-  {
-    "topic": "Multi-project management",
-    "certifications": [
-      {
-        "title": "Program Management: Managing Multiple Projects",
-        "url": "https://www.linkedin.com/learning/program-management-managing-multiple-projects"
-      },
-      {
-        "title": "Mastering Multi-Project Management",
-        "url": "https://www.udemy.com/course/mastering-multi-project-management/"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Multi Project Manager Tutorial",
-        "url": "https://www.youtube.com/watch?v=nC5oAiMHQwA"
-      },
-      {
-        "title": "How to Manage Multiple Projects [TIPS FOR PROJECT MANAGERS]",
-        "url": "https://www.youtube.com/watch?v=4niN--3eSmQ"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "supasebie/DotNetCore3.0React",
-        "url": "https://github.com/supasebie/DotNetCore3.0React"
-      },
-      {
-        "name": "throskam/eko",
-        "url": "https://github.com/throskam/eko"
-      }
-    ]
-  },
-  {
-    "topic": "Data cleaning/wrangling",
-    "certifications": [
-      {
-        "title": "Data Wrangling with Python",
-        "url": "https://www.datacamp.com/courses/data-wrangling-with-python"
-      },
-      {
-        "title": "Data Wrangling and Cleaning with Pandas",
-        "url": "https://www.udemy.com/course/data-wrangling-and-cleaning-with-pandas/"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Master Data Cleaning Essentials on Excel in Just 10 Minutes",
-        "url": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
-      },
-      {
-        "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
-        "url": "https://www.youtube.com/watch?v=bDhvCp3_lYw"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "Qudirah/Exploratory-Data-Analysis",
-        "url": "https://github.com/Qudirah/Exploratory-Data-Analysis"
-      },
-      {
-        "name": "anguswg-ucsb/nfl_wins",
-        "url": "https://github.com/anguswg-ucsb/nfl_wins"
-      }
-    ]
-  },
-  {
-    "topic": "Problem-solving skills",
-    "certifications": [
-      {
-        "title": "Creative Problem Solving",
-        "url": "https://www.coursera.org/learn/creative-problem-solving"
-      },
-      {
-        "title": "Critical Thinking & Problem Solving",
-        "url": "https://www.edx.org/course/critical-thinking-problem-solving"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "SHARPEN YOUR ANALYTICAL AND PROBLEM SOLVING SKILLS",
-        "url": "https://www.youtube.com/watch?v=Cm5ukdquISE"
-      },
-      {
-        "title": "4 Steps in Solving Problems",
-        "url": "https://www.youtube.com/watch?v=kn8frIzQupA"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "Preparation-Street/Programming-Street-150",
-        "url": "https://github.com/Preparation-Street/Programming-Street-150"
-      },
-      {
-        "name": "waterlink/Challenge-Build-Your-Own-Array-In-Js",
-        "url": "https://github.com/waterlink/Challenge-Build-Your-Own-Array-In-Js"
-      }
-    ]
-  },
-  {
-    "topic": "Code documentation",
-    "certifications": [
-      {
-        "title": "Writing Readable Code",
-        "url": "https://www.pluralsight.com/courses/writing-readable-code"
-      },
-      {
-        "title": "Documenting Your Code Projects",
-        "url": "https://www.linkedin.com/learning/documenting-your-code-projects"
+        "title": "Documenting APIs: A Guide for Technical Writers",
+        "url": "https://idratherbewriting.com/learnapidoc/"
       }
     ],
     "youtube_videos": [
@@ -260,27 +231,36 @@
     ]
   },
   {
-    "topic": "Relational databases (explicit experience beyond SQL not listed)",
+    "topic": "Data Wrangling and Cleaning",
     "certifications": [
       {
-        "title": "Relational Database Design",
-        "url": "https://www.udemy.com/course/relational-database-design/"
+        "title": "Data Wrangling with Python",
+        "url": "https://www.datacamp.com/courses/data-wrangling-with-python"
       },
       {
-        "title": "Databases and SQL for Data Science with Python",
-        "url": "https://www.coursera.org/learn/databases-sql-for-data-science-with-python"
+        "title": "Data Wrangling, Analysis and AB Testing with SQL",
+        "url": "https://www.udemy.com/course/data-wrangling-analysis-ab-testing-sql/"
       }
     ],
     "youtube_videos": [
       {
-        "title": "Relational Theory for Computer Professionals - C.J. Date",
-        "url": "https://www.youtube.com/watch?v=qx0F7TfA8CI"
+        "title": "Data Wrangling Explained in 60 Seconds | Data Engineering | Big Data | SCALER",
+        "url": "https://www.youtube.com/watch?v=Kv9H3hRBfRg"
       },
       {
-        "title": "You know SQL? You’re set for real-time data processing with Azure Stream Analytics by Florian Eiden",
-        "url": "https://www.youtube.com/watch?v=RLIZhfAvzjQ"
+        "title": "Master Data Cleaning Essentials on Excel in Just 10 Minutes",
+        "url": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
       }
     ],
-    "github_projects": []
+    "github_projects": [
+      {
+        "name": "dannguyen/python-notebooks-data-wrangling",
+        "url": "https://github.com/dannguyen/python-notebooks-data-wrangling"
+      },
+      {
+        "name": "xdssio/big_data_benchmarks",
+        "url": "https://github.com/xdssio/big_data_benchmarks"
+      }
+    ]
   }
 ]

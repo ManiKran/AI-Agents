@@ -4,28 +4,28 @@
     "days": [
       {
         "day": "Day 1",
-        "topic": "Customer segmentation",
-        "certification": "https://www.coursera.org/learn/customer-segmentation-prospecting"
+        "topic": "Multi-Channel Analysis",
+        "certification": "https://analytics.google.com/analytics/academy/course/6"
       },
       {
         "day": "Day 2",
-        "topic": "Customer segmentation",
-        "youtube_video": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
+        "topic": "Multi-Channel Analysis",
+        "youtube_video": "https://www.youtube.com/watch?v=VXaWdvGRnls"
       },
       {
         "day": "Day 3",
-        "topic": "Customer segmentation",
-        "github_project": "https://github.com/byukan/Marketing-Data-Science"
+        "topic": "Multi-Channel Analysis",
+        "github_project": "https://github.com/ntienhuy/MultiChannel"
       },
       {
         "day": "Day 4",
-        "topic": "Experience in marketing, advertising, or healthcare industries",
-        "certification": "https://www.coursera.org/specializations/digital-marketing"
+        "topic": "Real-Time Data Flows",
+        "certification": "https://www.confluent.io/resources/kafka-training/introduction-to-apache-kafka/"
       },
       {
         "day": "Day 5",
-        "topic": "Experience in marketing, advertising, or healthcare industries",
-        "youtube_video": "https://www.youtube.com/watch?v=kZvN7E7vfsE"
+        "topic": "Real-Time Data Flows",
+        "youtube_video": "https://www.youtube.com/watch?v=AUpMCRggjIM"
       }
     ]
   },
@@ -34,28 +34,28 @@
     "days": [
       {
         "day": "Day 6",
-        "topic": "Experience in marketing, advertising, or healthcare industries",
-        "github_project": "https://github.com/jettbrains/-L-"
+        "topic": "Real-Time Data Flows",
+        "github_project": "https://github.com/USTCPCS/CVPR2018_attention"
       },
       {
         "day": "Day 7",
-        "topic": "Interest in marketing, advertising, or healthcare industries",
-        "certification": "https://www.coursera.org/learn/marketing-fundamentals"
+        "topic": "Marketing Analytics",
+        "certification": "https://www.edx.org/professional-certificate/wharton-marketing-analytics"
       },
       {
         "day": "Day 8",
-        "topic": "Interest in marketing, advertising, or healthcare industries",
-        "youtube_video": "https://www.youtube.com/watch?v=vLZboLWR_D8"
+        "topic": "Marketing Analytics",
+        "youtube_video": "https://www.youtube.com/watch?v=eg4I-RU_vKU"
       },
       {
         "day": "Day 9",
-        "topic": "Interest in marketing, advertising, or healthcare industries",
-        "github_project": "https://github.com/jettbrains/-L-"
+        "topic": "Marketing Analytics",
+        "github_project": "https://github.com/retentioneering/retentioneering-tools"
       },
       {
         "day": "Day 10",
-        "topic": "Collaboration and project management",
-        "certification": "https://www.futurelearn.com/courses/collaborative-working-in-a-remote-team"
+        "topic": "Healthcare Data Analysis",
+        "certification": "https://www.coursera.org/learn/health-informatics-fhir"
       }
     ]
   },
@@ -64,28 +64,28 @@
     "days": [
       {
         "day": "Day 11",
-        "topic": "Collaboration and project management",
-        "youtube_video": "https://www.youtube.com/watch?v=YvJGzzpakWk"
+        "topic": "Healthcare Data Analysis",
+        "youtube_video": "https://www.youtube.com/watch?v=ime7OBlERiM"
       },
       {
         "day": "Day 12",
-        "topic": "Collaboration and project management",
-        "github_project": "https://github.com/Enalean/tuleap"
+        "topic": "Healthcare Data Analysis",
+        "github_project": "https://github.com/jettbrains/-L-"
       },
       {
         "day": "Day 13",
-        "topic": "Multi-project management",
-        "certification": "https://www.linkedin.com/learning/program-management-managing-multiple-projects"
+        "topic": "Customer Segmentation",
+        "certification": "https://www.udemy.com/course/customer-segmentation-and-behavior-analysis/"
       },
       {
         "day": "Day 14",
-        "topic": "Multi-project management",
-        "youtube_video": "https://www.youtube.com/watch?v=nC5oAiMHQwA"
+        "topic": "Customer Segmentation",
+        "youtube_video": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
       },
       {
         "day": "Day 15",
-        "topic": "Multi-project management",
-        "github_project": "https://github.com/supasebie/DotNetCore3.0React"
+        "topic": "Customer Segmentation",
+        "github_project": "https://github.com/byukan/Marketing-Data-Science"
       }
     ]
   },
@@ -94,28 +94,28 @@
     "days": [
       {
         "day": "Day 16",
-        "topic": "Data cleaning/wrangling",
-        "certification": "https://www.datacamp.com/courses/data-wrangling-with-python"
+        "topic": "ROI Optimization",
+        "certification": "https://www.coursera.org/learn/digital-marketing-strategy"
       },
       {
         "day": "Day 17",
-        "topic": "Data cleaning/wrangling",
-        "youtube_video": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
+        "topic": "ROI Optimization",
+        "youtube_video": "https://www.youtube.com/watch?v=rq9JeYwQiTQ"
       },
       {
         "day": "Day 18",
-        "topic": "Data cleaning/wrangling",
-        "github_project": "https://github.com/Qudirah/Exploratory-Data-Analysis"
+        "topic": "ROI Optimization",
+        "github_project": "https://github.com/milinddeore/AirBnBPriceOptimizer"
       },
       {
         "day": "Day 19",
-        "topic": "Problem-solving skills",
-        "certification": "https://www.coursera.org/learn/creative-problem-solving"
+        "topic": "Code Documentation",
+        "certification": "https://developers.google.com/tech-writing"
       },
       {
         "day": "Day 20",
-        "topic": "Problem-solving skills",
-        "youtube_video": "https://www.youtube.com/watch?v=Cm5ukdquISE"
+        "topic": "Code Documentation",
+        "youtube_video": "https://www.youtube.com/watch?v=L7Ry-Fiij-M"
       }
     ]
   },
@@ -124,38 +124,23 @@
     "days": [
       {
         "day": "Day 21",
-        "topic": "Problem-solving skills",
-        "github_project": "https://github.com/Preparation-Street/Programming-Street-150"
-      },
-      {
-        "day": "Day 22",
-        "topic": "Code documentation",
-        "certification": "https://www.pluralsight.com/courses/writing-readable-code"
-      },
-      {
-        "day": "Day 23",
-        "topic": "Code documentation",
-        "youtube_video": "https://www.youtube.com/watch?v=L7Ry-Fiij-M"
-      },
-      {
-        "day": "Day 24",
-        "topic": "Code documentation",
+        "topic": "Code Documentation",
         "github_project": "https://github.com/git/git"
       },
       {
-        "day": "Day 25",
-        "topic": "Relational databases (explicit experience beyond SQL not listed)",
-        "certification": "https://www.udemy.com/course/relational-database-design/"
-      }
-    ]
-  },
-  {
-    "week": "Week 6",
-    "days": [
+        "day": "Day 22",
+        "topic": "Data Wrangling and Cleaning",
+        "certification": "https://www.datacamp.com/courses/data-wrangling-with-python"
+      },
       {
-        "day": "Day 26",
-        "topic": "Relational databases (explicit experience beyond SQL not listed)",
-        "youtube_video": "https://www.youtube.com/watch?v=qx0F7TfA8CI"
+        "day": "Day 23",
+        "topic": "Data Wrangling and Cleaning",
+        "youtube_video": "https://www.youtube.com/watch?v=Kv9H3hRBfRg"
+      },
+      {
+        "day": "Day 24",
+        "topic": "Data Wrangling and Cleaning",
+        "github_project": "https://github.com/dannguyen/python-notebooks-data-wrangling"
       }
     ]
   }
