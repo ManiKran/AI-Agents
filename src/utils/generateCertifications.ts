@@ -2,7 +2,7 @@ import { openai } from "../config/openai";
 
 export async function getCertificationsForTopics(topics: string[]) {
     const completion = await openai.chat.completions.create({
-      model: "gpt-4o",
+      model: "gpt-4.1",
       messages: [
         {
           role: "system",

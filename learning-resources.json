@@ -1,14 +1,47 @@
 [
   {
-    "topic": "Multi-Channel Analysis",
+    "topic": "Customer segmentation",
     "certifications": [
       {
-        "title": "Google Analytics for Beginners",
-        "url": "https://analytics.google.com/analytics/academy/course/6"
+        "title": "Customer Segmentation and Prospecting",
+        "url": "https://www.coursera.org/learn/customer-segmentation"
       },
       {
-        "title": "Marketing Analytics: Multi-Touch Attribution",
-        "url": "https://www.coursera.org/learn/marketing-analytics-multi-touch-attribution"
+        "title": "Customer Segmentation using Machine Learning",
+        "url": "https://www.udemy.com/course/customer-segmentation-using-machine-learning/"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Customer Segmentation Tutorial | Python Projects | K-Means Algorithm | Python Training |  Edureka",
+        "url": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
+      },
+      {
+        "title": "Data Analyst Portfolio Project #2: Python Customer Segmentation &amp; Clustering",
+        "url": "https://www.youtube.com/watch?v=iwUli5gIcU0"
+      }
+    ],
+    "github_projects": [
+      {
+        "name": "byukan/Marketing-Data-Science",
+        "url": "https://github.com/byukan/Marketing-Data-Science"
+      },
+      {
+        "name": "damiangilgonzalez1995/Clustering-with-LLM",
+        "url": "https://github.com/damiangilgonzalez1995/Clustering-with-LLM"
+      }
+    ]
+  },
+  {
+    "topic": "Multi-channel analysis",
+    "certifications": [
+      {
+        "title": "Multi-Channel Retail Marketing",
+        "url": "https://www.coursera.org/learn/multi-channel-retail-marketing"
+      },
+      {
+        "title": "Digital Marketing Analytics: Multichannel Attribution",
+        "url": "https://www.linkedin.com/learning/digital-marketing-analytics-multichannel-attribution"
       }
     ],
     "youtube_videos": [
@@ -33,25 +66,25 @@
     ]
   },
   {
-    "topic": "Real-Time Data Flows",
+    "topic": "Real-time data flow analysis",
     "certifications": [
       {
-        "title": "Introduction to Apache Kafka",
-        "url": "https://www.confluent.io/resources/kafka-training/introduction-to-apache-kafka/"
+        "title": "Real-Time Data Processing with Azure Stream Analytics",
+        "url": "https://www.coursera.org/learn/real-time-data-processing-azure"
       },
       {
-        "title": "Streaming Data with Amazon Kinesis",
-        "url": "https://aws.amazon.com/training/digital/aws-streaming-data-solutions/"
+        "title": "Real-Time Data Processing with AWS",
+        "url": "https://www.udemy.com/course/real-time-data-processing-with-aws/"
       }
     ],
     "youtube_videos": [
       {
-        "title": "Azure Data Factory Mapping Data Flows Tutorial | Build ETL visual way!",
-        "url": "https://www.youtube.com/watch?v=AUpMCRggjIM"
+        "title": "Dataflow: Real-time clickstream analytics",
+        "url": "https://www.youtube.com/watch?v=LFBIjQvdC-w"
       },
       {
-        "title": "Azure Data Engineering | real time project 7 | data flow project-4",
-        "url": "https://www.youtube.com/watch?v=S4Pr7Wudp6Y"
+        "title": "Dataflow for Real-time Clickstream Analytics",
+        "url": "https://www.youtube.com/watch?v=CLd_yDCyUkg"
       }
     ],
     "github_projects": [
@@ -60,21 +93,21 @@
         "url": "https://github.com/USTCPCS/CVPR2018_attention"
       },
       {
-        "name": "Sfedfcv/redesigned-pancake",
-        "url": "https://github.com/Sfedfcv/redesigned-pancake"
+        "name": "J700070/Stock-Analyzer-Python",
+        "url": "https://github.com/J700070/Stock-Analyzer-Python"
       }
     ]
   },
   {
-    "topic": "Marketing Analytics",
+    "topic": "Marketing analytics",
     "certifications": [
       {
-        "title": "Marketing Analytics and Retail Business Management",
-        "url": "https://www.edx.org/professional-certificate/wharton-marketing-analytics"
+        "title": "Marketing Analytics",
+        "url": "https://www.coursera.org/specializations/marketing-analytics"
       },
       {
-        "title": "Marketing Analytics: Data Tools and Techniques",
-        "url": "https://www.coursera.org/learn/marketing-analytics"
+        "title": "Marketing Analytics Foundation",
+        "url": "https://www.linkedin.com/learning/marketing-analytics-foundation"
       }
     ],
     "youtube_videos": [
@@ -99,15 +132,15 @@
     ]
   },
   {
-    "topic": "Healthcare Data Analysis",
+    "topic": "Healthcare analytics",
     "certifications": [
       {
-        "title": "Health Informatics on FHIR",
-        "url": "https://www.coursera.org/learn/health-informatics-fhir"
+        "title": "Healthcare Data Analytics",
+        "url": "https://www.coursera.org/learn/healthcare-data-analytics"
       },
       {
-        "title": "Data Analytics in Healthcare",
-        "url": "https://www.udemy.com/course/data-analytics-in-healthcare/"
+        "title": "Health Informatics: The Cutting Edge",
+        "url": "https://www.edx.org/course/health-informatics-the-cutting-edge"
       }
     ],
     "youtube_videos": [
@@ -116,97 +149,64 @@
         "url": "https://www.youtube.com/watch?v=ime7OBlERiM"
       },
       {
-        "title": "What does a Healthcare Data Analyst Do",
-        "url": "https://www.youtube.com/watch?v=qcQoBXa0uZ8"
+        "title": "Power BI Dashboard for Healthcare Analytics: Full Tutorial | How to use Power BI Desktop",
+        "url": "https://www.youtube.com/watch?v=hm4Iq2Mm2pQ"
       }
     ],
     "github_projects": [
       {
-        "name": "jettbrains/-L-",
-        "url": "https://github.com/jettbrains/-L-"
+        "name": "PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects",
+        "url": "https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects"
       },
+      {
+        "name": "youcc/healthcare_analytics_engineer_handbook",
+        "url": "https://github.com/youcc/healthcare_analytics_engineer_handbook"
+      }
+    ]
+  },
+  {
+    "topic": "Advertising analytics",
+    "certifications": [
+      {
+        "title": "Advertising and Society: Data Analytics",
+        "url": "https://www.coursera.org/learn/advertising-and-society-data-analytics"
+      },
+      {
+        "title": "Digital Advertising & Marketing 101: The Complete Guide",
+        "url": "https://www.udemy.com/course/digital-advertising-marketing-101/"
+      }
+    ],
+    "youtube_videos": [
+      {
+        "title": "Marketing Analytics 101 (A Beginner’s Guide To Marketing Metrics)",
+        "url": "https://www.youtube.com/watch?v=eg4I-RU_vKU"
+      },
+      {
+        "title": "Understanding Digital Marketing Analytics (Metrics and Tools)",
+        "url": "https://www.youtube.com/watch?v=Yv12mEfrj-Y"
+      }
+    ],
+    "github_projects": [
       {
         "name": "Aryia-Behroziuan/neurons",
         "url": "https://github.com/Aryia-Behroziuan/neurons"
+      },
+      {
+        "name": "cohnen/mcp-google-ads",
+        "url": "https://github.com/cohnen/mcp-google-ads"
       }
     ]
   },
   {
-    "topic": "Customer Segmentation",
+    "topic": "Code documentation",
     "certifications": [
       {
-        "title": "Customer Segmentation and Behavior Analysis",
-        "url": "https://www.udemy.com/course/customer-segmentation-and-behavior-analysis/"
+        "title": "Writing Documentation",
+        "url": "https://www.coursera.org/learn/writing-documentation"
       },
       {
-        "title": "Advanced Customer Segmentation with R",
-        "url": "https://www.datacamp.com/courses/customer-segmentation-in-r"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "Customer Segmentation Tutorial | Python Projects | K-Means Algorithm | Python Training |  Edureka",
-        "url": "https://www.youtube.com/watch?v=4jv1pUrG0Zk"
-      },
-      {
-        "title": "Market Segmentation (With Real World Examples) | From A Business Professor",
-        "url": "https://www.youtube.com/watch?v=IrJ1cNIfmsk"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "byukan/Marketing-Data-Science",
-        "url": "https://github.com/byukan/Marketing-Data-Science"
-      },
-      {
-        "name": "damiangilgonzalez1995/Clustering-with-LLM",
-        "url": "https://github.com/damiangilgonzalez1995/Clustering-with-LLM"
-      }
-    ]
-  },
-  {
-    "topic": "ROI Optimization",
-    "certifications": [
-      {
-        "title": "Digital Marketing Strategies: Data, Automation, AI & Analytics",
-        "url": "https://www.coursera.org/learn/digital-marketing-strategy"
-      },
-      {
-        "title": "Marketing ROI: Design and Deliver Winning Marketing ROI",
-        "url": "https://www.udemy.com/course/marketing-roi/"
-      }
-    ],
-    "youtube_videos": [
-      {
-        "title": "YouTube ROI Optimization [From Zero to HERO in 2025]",
-        "url": "https://www.youtube.com/watch?v=rq9JeYwQiTQ"
-      },
-      {
-        "title": "Maximizing Advertising ROI through Budget Optimization | Python Tutorial",
-        "url": "https://www.youtube.com/watch?v=VIYEJXhvw6M"
-      }
-    ],
-    "github_projects": [
-      {
-        "name": "milinddeore/AirBnBPriceOptimizer",
-        "url": "https://github.com/milinddeore/AirBnBPriceOptimizer"
-      },
-      {
-        "name": "JuliaSokolova/amazon_-eCommerce_optimization",
-        "url": "https://github.com/JuliaSokolova/amazon_-eCommerce_optimization"
-      }
-    ]
-  },
-  {
-    "topic": "Code Documentation",
-    "certifications": [
-      {
-        "title": "Technical Writing for Developers",
-        "url": "https://developers.google.com/tech-writing"
-      },
-      {
-        "title": "Documenting APIs: A Guide for Technical Writers",
-        "url": "https://idratherbewriting.com/learnapidoc/"
+        "title": "Technical Writing: Master Your Writing Career",
+        "url": "https://www.udemy.com/course/technical-writing-master-your-writing-career/"
       }
     ],
     "youtube_videos": [
@@ -231,36 +231,18 @@
     ]
   },
   {
-    "topic": "Data Wrangling and Cleaning",
-    "certifications": [
-      {
-        "title": "Data Wrangling with Python",
-        "url": "https://www.datacamp.com/courses/data-wrangling-with-python"
-      },
-      {
-        "title": "Data Wrangling, Analysis and AB Testing with SQL",
-        "url": "https://www.udemy.com/course/data-wrangling-analysis-ab-testing-sql/"
-      }
-    ],
+    "topic": "Relational database management systems (specific hands-on mention like PostgreSQL, MySQL, etc.)",
+    "certifications": [],
     "youtube_videos": [
       {
-        "title": "Data Wrangling Explained in 60 Seconds | Data Engineering | Big Data | SCALER",
-        "url": "https://www.youtube.com/watch?v=Kv9H3hRBfRg"
+        "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+        "url": "https://www.youtube.com/watch?v=kbKty5ZVKMY"
       },
       {
-        "title": "Master Data Cleaning Essentials on Excel in Just 10 Minutes",
-        "url": "https://www.youtube.com/watch?v=jxq4-KSB_OA"
+        "title": "SQL Tutorial - Full Database Course for Beginners",
+        "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
       }
     ],
-    "github_projects": [
-      {
-        "name": "dannguyen/python-notebooks-data-wrangling",
-        "url": "https://github.com/dannguyen/python-notebooks-data-wrangling"
-      },
-      {
-        "name": "xdssio/big_data_benchmarks",
-        "url": "https://github.com/xdssio/big_data_benchmarks"
-      }
-    ]
+    "github_projects": []
   }
 ]

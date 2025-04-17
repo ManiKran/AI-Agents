@@ -1,27 +1,10 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 export default function App() {
   const [resume, setResume] = useState<File | null>(null);
   const [jobDesc, setJobDesc] = useState<File | null>(null);
   const [loading, setLoading] = useState(false);
-  const [resourcesFile, setResourcesFile] = useState<Blob | null>(null);
-  const [planFile, setPlanFile] = useState<Blob | null>(null);
-  const [parsedResources, setParsedResources] = useState<any>(null);
-  const [parsedPlan, setParsedPlan] = useState<any>(null);
-
-  useEffect(() => {
-    const parseFiles = async () => {
-      if (resourcesFile) {
-        const text = await resourcesFile.text();
-        setParsedResources(JSON.parse(text));
-      }
-      if (planFile) {
-        const text = await planFile.text();
-        setParsedPlan(JSON.parse(text));
-      }
-    };
-    parseFiles();
-  }, [resourcesFile, planFile]);
+  const [pdfUrl, setPdfUrl] = useState<string | null>(null);
 
   const handleSubmit = async () => {
     if (!resume || !jobDesc) return;
@@ -30,25 +13,21 @@ export default function App() {
     formData.append("resume", resume);
     formData.append("jobdesc", jobDesc);
     setLoading(true);
+    setPdfUrl(null);
 
-    const res = await fetch("http://localhost:3001/analyze", {
-      method: "POST",
-      body: formData,
-    });
+    try {
+      const res = await fetch("http://localhost:3001/analyze", {
+        method: "POST",
+        body: formData,
+      });
 
-    const data = await res.json();
+      const data = await res.json();
+      setPdfUrl(data.pdfDownload); // e.g., "http://localhost:3001/download"
+    } catch (err) {
+      alert("❌ Failed to generate the study plan PDF.");
+      console.error(err);
+    }
 
-    const blobResources = new Blob(
-      [JSON.stringify(data.learningResources, null, 2)],
-      { type: "application/json" }
-    );
-    const blobPlan = new Blob(
-      [JSON.stringify(data.weeklyPlan, null, 2)],
-      { type: "application/json" }
-    );
-
-    setResourcesFile(blobResources);
-    setPlanFile(blobPlan);
     setLoading(false);
   };
 
@@ -77,40 +56,16 @@ export default function App() {
         {loading ? "Analyzing..." : "Generate Study Plan"}
       </button>
 
-      {resourcesFile && (
-        <div className="text-left">
-          <h2 className="text-xl font-semibold mb-2">📘 Learning Resources</h2>
-          <a
-            href={URL.createObjectURL(resourcesFile)}
-            download="learning-resources.json"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-600 underline block mb-2"
-          >
-            🔽 Download
-          </a>
-          <pre className="bg-gray-100 p-4 rounded max-h-96 overflow-auto text-sm">
-            {JSON.stringify(parsedResources, null, 2)}
-          </pre>
-        </div>
-      )}
-
-      {planFile && (
-        <div className="text-left">
-          <h2 className="text-xl font-semibold mb-2">🗓️ Weekly Study Plan</h2>
-          <a
-            href={URL.createObjectURL(planFile)}
-            download="weekly-study-plan.json"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-600 underline block mb-2"
-          >
-            🔽 Download
-          </a>
-          <pre className="bg-gray-100 p-4 rounded max-h-96 overflow-auto text-sm">
-            {JSON.stringify(parsedPlan, null, 2)}
-          </pre>
-        </div>
+      {pdfUrl && (
+        <a
+          href={pdfUrl}
+          download="SkillSyncAI_Study_Plan.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700"
+        >
+          🔽 Download PDF
+        </a>
       )}
     </div>
   );

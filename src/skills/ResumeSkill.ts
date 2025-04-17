@@ -10,7 +10,7 @@ const openai = new OpenAI({
 
 export async function parseResume(resumeText: string) {
   const completion = await openai.chat.completions.create({
-    model: "gpt-4o", // GitHub-supported model
+    model: "gpt-4.1", // GitHub-supported model
     temperature: 0.7,
     max_tokens: 1000,
     messages: [
